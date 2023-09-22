@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "nombre": "buzo",
+        "categoria": "indumentaria",
+        "stock": 2,
+        "precio": 20000,
+        "imagen": "buzo.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "campera",
+        "categoria": "indumentaria",
+        "stock": 4,
+        "precio": 18000,
+        "imagen": "campera.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "gorra",
+        "categoria": "accesorios",
+        "stock": 4,
+        "precio": 5000,
+        "imagen": "gorra.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "guantes",
+        "categoria": "accesorios",
+        "stock": 3,
+        "precio": 4500,
+        "imagen": "guantes.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "jogging",
+        "categoria": "indumentaria",
+        "stock": 3,
+        "precio": 10500,
+        "imagen": "jogging.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "medias",
+        "categoria": "accesorios",
+        "stock": 5,
+        "precio": 500,
+        "imagen": "medias.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "mochila",
+        "categoria": "accesorios",
+        "stock": 3,
+        "precio": 15000,
+        "imagen": "mochila.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "remera azul",
+        "categoria": "indumentaria",
+        "stock": 4,
+        "precio": 9000,
+        "imagen": "remera-azul.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "remera",
+        "categoria": "indumentaria",
+        "stock": 3,
+        "precio": 9500,
+        "imagen": "remera.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "short",
+        "categoria": "indumentaria",
+        "stock": 2,
+        "precio": 10000,
+        "imagen": "short.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "zapatillas adidas",
+        "categoria": "calzado",
+        "stock": 3,
+        "precio": 40000,
+        "imagen": "zapatillas-adidas.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "zapatillas nike",
+        "categoria": "calzado",
+        "stock": 3,
+        "precio": 55000,
+        "imagen": "zapatillas-nike.jpg"
+    }
+]
